@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/HotelCampaignsWeb/src/main/resources/META-INF/environments/dev/thrift.config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/HotelCampaignsWeb/src/main/resources/META-INF/environments/online/thrift.config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/HotelCampaignsWeb/src/main/resources/META-INF/templates/thrift/thrift-client.xml.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-pandora/HotelPandoraWeb/src/main/java/com/meituan/service/hotel/pandora/listener/message/OrderMessageModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-pandora/HotelPandoraWeb/src/main/resources/META-INF/environments/dev/swift.config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-pandora/HotelPandoraWeb/src/main/resources/META-INF/environments/online/online/thrift.config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-poimapper/hotel-poimapper-core/src/main/java/com/meituan/hotel/poimapper/loaddata/manager/LoadDataManagement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-poimapper/hotel-poimapper-core/src/main/java/com/meituan/hotel/poimapper/loaddata/query/ResultSetType4PoiMap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-poimapper/hotel-poimapper-core/src/main/java/com/meituan/hotel/poimapper/loaddata/schedule/PoiMapperReloadTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-poimapper/hotel-poimapper-core/src/main/java/com/meituan/hotel/poimapper/loaddata/schedule/PoiMapperReloadTaskSwitch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-poimapper/hotel-poimapper-core/src/main/java/com/meituan/hotel/poimapper/loaddata/schedule/ThreadFactoryBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-poimapper/hotel-poimapper-core/src/main/resources/META-INF/autoconfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-poimapper/hotel-poimapper-core/src/main/resources/spring/applicationContext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-poimapper/hotel-poimapper-core/src/test/java/com/meituan/hotel/poimapper/loaddata/schedule/ThreadFactoryBuilderTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/src/main/java/com/meituan/hotel/price/route/web/config/RouteConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/src/main/java/com/meituan/hotel/price/route/web/loadbalancer/RandomLoadBalancer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/src/main/java/com/meituan/hotel/price/route/web/router/AbstractRouter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/src/main/resources/META-INF/environments/dev/mtconfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/src/main/resources/META-INF/environments/online/mtconfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/src/main/resources/META-INF/environments/staging/mtconfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/src/main/resources/META-INF/environments/test/mtconfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/src/main/resources/logback.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/client/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/client/src/main/java/com/meituan/hotel/price/server/client/config/RouteInvocationConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/java/com/meituan/hotel/price/core/base/cache/Cache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/java/com/meituan/hotel/price/core/base/cache/impl/GuavaCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/java/com/meituan/hotel/price/core/initial/TotalStartUp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/dev/db4Price.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/dev/db4goods.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/dev/db4price.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/dev/mtconfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/online/db4goods.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/online/mtconfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/online/rabbbit.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/staging/db4goods.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/staging/db4price.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/staging/kafka.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/staging/mtconfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/staging/rabbbit.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/staging/thrift.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/test/db4Price.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/test/db4goods.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/test/db4price.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/environments/test/mtconfig.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/templates/logback.xml.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/github/dunno/concurrent/sync/TestCondition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/github/dunno/concurrent/thread/TestCreateThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
