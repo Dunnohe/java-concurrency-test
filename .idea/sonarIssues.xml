@@ -3,6 +3,31 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/HotelCampaignsWeb/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/HotelCampaignsWeb/src/main/java/com/meituan/service/hotel/campaigns/service/outer/impl/HotelPriceServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/HotelCampaignsWeb/src/main/java/com/meituan/service/hotel/travelprice/server/handle/QueryCreateOrderHandle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/HotelCampaignsWeb/src/main/java/com/meituan/service/hotel/travelprice/server/outer/goods/GoodsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/HotelCampaignsWeb/src/main/java/com/meituan/service/hotel/travelprice/server/outer/pandora/PandoraService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/HotelCampaignsWeb/src/main/resources/META-INF/environments/dev/thrift.config.properties">
           <value>
             <set />
@@ -14,6 +39,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/HotelCampaignsWeb/src/main/resources/META-INF/templates/thrift/thrift-client.xml.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/pom.xml">
           <value>
             <set />
           </value>
@@ -93,6 +123,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/src/main/java/com/meituan/hotel/price/route/web/thrift/PriceRouteServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/src/main/java/com/meituan/hotel/price/route/web/util/DateUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/src/main/java/com/meituan/hotel/price/route/web/util/RateLimitUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/IdeaProjects/hotel-price-route/hotel-price-route-web/src/main/resources/META-INF/environments/dev/mtconfig.properties">
           <value>
             <set />
@@ -144,6 +189,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/java/com/meituan/hotel/price/core/base/cache/impl/GuavaCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/java/com/meituan/hotel/price/core/cache/PriceDayCacheImpl.java">
           <value>
             <set />
           </value>
@@ -243,7 +293,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/META-INF/templates/spring/rabbitmq/rabbitmq.xml.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-price-server/server/src/main/resources/logback.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/github/dunno/concurrent/sync/TestCondition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/github/dunno/concurrent/sync/TestSync.java">
           <value>
             <set />
           </value>
