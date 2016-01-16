@@ -2,6 +2,10 @@ package com.github.dunno.concurrent.sync;
 
 import org.junit.Test;
 
+import java.util.concurrent.locks.ReadWriteLock;
+import java.util.concurrent.locks.ReentrantLock;
+import java.util.concurrent.locks.ReentrantReadWriteLock;
+
 /**
  * Created by liang.he on 16/1/16.
  */
@@ -152,6 +156,40 @@ public class TestSync {
 		}
 	}
 
+	private ReentrantLock reentrantLock = new ReentrantLock();
+
+	//独占锁
+	public void reentrantLock() {
+		try {
+			reentrantLock.lock();
+			long start = System.currentTimeMillis();
+			System.out.println("reentrantLock start! start:" + start);
+			int sleep = 2;
+			while (sleep > 0) {
+				try {
+					Thread.sleep(1000);
+					System.out.println("reentrantLock-lock:" + lock2);
+					System.out.println("reentrantLock-lock:" + lock);
+					System.out.println("reentrantLock-lock:" + staticLock);
+				} catch (InterruptedException e) {
+					e.printStackTrace();
+				}
+				sleep --;
+			}
+			long end = System.currentTimeMillis();
+			System.out.println("reentrantLock end! end:" + end + " cost:" + (end - start));
+		} finally {
+			reentrantLock.unlock();
+		}
+	}
+
+	private ReadWriteLock readWriteLock = new ReentrantReadWriteLock();
+
+
+	public void readWriteLock() {
+
+	}
+
 	//测试私有锁锁不同变量是否会有竞争
 	//结论:
 	//只打开注释1,注释2,可以说明“当私有锁监视同一资源会竞争,等待其中一个资源释放,当监视的资源不是同一个不会产生竞争”
@@ -159,6 +197,7 @@ public class TestSync {
 	//只打开注释5,注释6,可以说明"类锁会互相竞争，等待另一个释放资源"
 	//只打开注释1,注释6,打开注释1,注释5,可以说明"不同的锁不会竞争"
 	//只打开注释1,注释7,3-7或者5-7,可以说明"无锁变量不会和锁变量竞争"
+	//不同类的锁不会竞争
 	@Test
 	public void test1() {
 		Thread thread = new Thread(new Runnable() {
@@ -170,7 +209,8 @@ public class TestSync {
 
 						//privateLockMethod();//注释1
 						//objectLockMethod();//注释3
-						classLockMethod();//注释5
+						//classLockMethod();//注释5
+						reentrantLock();//注释8
 					}
 				});
 				Thread thread2 = new Thread(new Runnable() {
@@ -180,7 +220,8 @@ public class TestSync {
 						//privateLockMethod2();//注释2
 						//objectLockMethod2();//注释4
 						//classLockMethod2();//注释6
-						noLockMethod();//注释7
+						//noLockMethod();//注释7
+						reentrantLock();//注释9
 					}
 				});
 				thread1.start();
