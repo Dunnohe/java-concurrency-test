@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$MAVEN_REPOSITORY$/com/meituan/travel/common/superpom/super-pom/1.1.1-SNAPSHOT/super-pom-1.1.1-SNAPSHOT.pom">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/HotelCampaignsWeb/pom.xml">
           <value>
             <set />
@@ -44,6 +49,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/IdeaProjects/hotel-campaigns/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/hotel-pandora/HotelPandoraThrift/src/main/java/com/meituan/service/hotel/pandora/thrift/PandoraActiveService.java">
           <value>
             <set />
           </value>
@@ -303,6 +313,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/IdeaProjects/travel-pandora-move/server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/travel-pandora-move/server/src/main/java/com/meituan/pandora/movetool/server/adapter/CampaignAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/travel-pandora-move/server/src/main/java/com/meituan/pandora/movetool/server/constants/ApiCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/travel-pandora-move/server/src/main/java/com/meituan/pandora/movetool/server/outer/CampaignWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/travel-pandora-move/server/src/main/java/com/meituan/pandora/movetool/server/thrift/PandoraMoveToolServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/travel-pandora-move/server/src/main/java/com/meituan/pandora/movetool/server/util/BusinessUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/github/dunno/concurrent/sync/TestCondition.java">
           <value>
             <set />
@@ -318,7 +358,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/github/dunno/concurrent/thread/TestDaemonThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>

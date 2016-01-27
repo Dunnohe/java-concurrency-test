@@ -61,7 +61,5 @@ public class TestDaemonThread {
 		System.out.println(thread.getName() + "pro " + thread.getPriority());
 		System.out.println(thread2.getName() + "pro " + thread2.getPriority());
 
-
-
 	}
 }
